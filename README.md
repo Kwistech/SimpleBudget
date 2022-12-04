@@ -1,0 +1,2 @@
+# SimpleBudget
+Budgeting made simple.
